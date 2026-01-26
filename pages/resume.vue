@@ -26,9 +26,9 @@
       |
       | Functional programming, Web Components, gRPC, XState
     div
-      span.highlight Testing &amp; CI/CD: 
+      span.highlight Testing: 
       |
-      | Vitest, Jest, Playwright, Github Actions
+      | Vitest, Jest, Playwright
     div
       span.highlight Build &amp; Tooling:
       |
@@ -45,7 +45,7 @@
         template(#start) Sept 2023
         template(#end) Aug 2024
         ul.job-list
-          li Designed and developed a modern user interface with Vue.js, Nuxt, Typescript and fp-ts
+          li Designed and developed a modern user interface with Vue.js, Nuxt, Typescript, and fp-ts
           li Led the iterative design process, collaborating with designers to enhance user experience and achieve project goals
           li Created interactive visualizations with D3.js to display generated data and improve data insights
           li
@@ -60,12 +60,13 @@
         template(#start) February 2020
         template(#end) Sept 2023
         ul.job-list
-          li Led the development of Spectrum's content moderation web application, Guardian, using Vue, Nuxt, Typescript and fp-ts
+          li Led the development of Spectrum's content moderation web application, Guardian, using Vue, Nuxt, Typescript, and fp-ts
           li Enhanced Guardian moderation dashboard features through collaboration with design, resulting in a more robust and user-friendly dashboard
           li Integrated fp-ts into Guardian, leading to a substantial improvement in UI stability
+          li Mentored and guided new team members in front end best practices and code quality
           li Worked with customers to improve Guardian moderation dashboard functionality and increase user happiness
           li Simplified new feature development with a custom web component library built in Stencil.js
-          li Improved sales team efficiency by creating and maintaining audio and text demo apps built with Vue, Python, Flask and Billboard.js
+          li Improved sales team efficiency by creating and maintaining audio and text demo apps built with Vue, Python, Flask, and Billboard.js
           li
             span.highlight Technologies:
             |
@@ -88,7 +89,7 @@
             | React, Redux, Emotion, PostCSS, Flutter, Grunt, Gulp, Webpack
       
       JobCard
-        template(#title) UI/UX Developer
+        template(#title) Front End Developer
         template(#company) Domino's, Contract through Beacon Hill Staffing Group
         template(#location) Ann Arbor, MI
         template(#start) Mar 2017
@@ -137,7 +138,7 @@
         template(#start) Feb 2012
         template(#end) Oct 2013
         ul.job-list
-          li Worked on marketing sites for various clients, using Dojo and Less
+          li Worked on marketing sites for multiple clients, using Dojo and Less
           li Undertook major CSS refactor to fix site loading issues
       
       JobCard
