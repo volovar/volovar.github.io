@@ -1,23 +1,21 @@
 <template lang="pug">
 .job-card
   .info
-    .company-title
+    .details
       span.title
         slot(name="title")
-      |,
-      |
-      slot(name="company")
-      |
-      | &#8212;
-      |
-      slot(name="location")
-    .date
-      span(v-if="$slots.start")
-        slot(name="start")
-        |
-        | &#8211;
-        |
-      slot(name="end")
+      span
+        slot(name="company")
+    .details
+      span
+        span(v-if="$slots.start")
+          slot(name="start")
+          |
+          | &#8211;
+          |
+        slot(name="end")
+      span
+        slot(name="location")
   slot
 </template>
 
@@ -29,5 +27,14 @@
 .info {
   display: flex;
   justify-content: space-between;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+
+  &:last-child {
+    text-align: right;
+  }
 }
 </style>

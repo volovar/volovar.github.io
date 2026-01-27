@@ -1,0 +1,31 @@
+{
+  "title": "Front End Developer",
+  "company": "Domino's",
+  "location": "Ann Arbor, MI",
+  "start": "July 2018",
+  "end": "Sept 2021",
+  "tech": [
+    "React",
+    "Redux",
+    "Emotion",
+    "PostCSS",
+    "Flutter",
+    "Grunt",
+    "Gulp",
+    "Webpack",
+    "Javascript",
+    "jQuery",
+    "Preact",
+    "CSS",
+    "PostCSS",
+    "Simplr"
+  ],
+  "bullets": [
+    "Led development of in-store app to improve order, delivery and tracker accuracy",
+    "Developed Pie Pass cart features, improving the order experience by personalizing order pickup and adding contactless pickup",
+    "Created and managed native apps for 26 international markets improving ease of ordering",
+    "Simplified build processes decreasing build time by 5x",
+    "Increased item upsell conversions and site usability by running and implementing A/B tests",
+    "Improved user experience by finding and fixing site bugs"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Lead Front End Engineer",
+  "company": "Spectrum Labs",
+  "location": "San Francisco, CA (Remote)",
+  "start": "Feb 2020",
+  "end": "Sept 2023",
+  "tech": [
+    "Vue",
+    "Nuxt",
+    "Typescript",
+    "fp-ts",
+    "gRPC",
+    "Stencil",
+    "Scala",
+    "Python",
+    "Flask",
+    "Jest"
+  ],
+  "bullets": [
+    "Led the development of Spectrum's content moderation web application, Guardian, using Vue, Nuxt, Typescript, and fp-ts",
+    "Enhanced Guardian moderation dashboard features through collaboration with design, resulting in a more robust and user-friendly dashboard",
+    "Integrated fp-ts into Guardian, leading to a substantial improvement in UI stability",
+    "Mentored and guided new team members in front end best practices and code quality",
+    "Worked with customers to improve Guardian moderation dashboard functionality and increase user happiness",
+    "Simplified new feature development with a custom web component library built in Stencil.js",
+    "Improved sales team efficiency by creating and maintaining audio and text demo apps built with Vue, Python, Flask, and Billboard.js"
+  ]
+}

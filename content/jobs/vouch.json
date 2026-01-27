@@ -1,0 +1,12 @@
+{
+  "title": "Front End Engineer",
+  "company": "Vouch",
+  "location": "San Francisco, CA",
+  "start": "Oct 2015",
+  "end": "Feb 2016",
+  "tech": ["Coffeescript", "Sass", "Rails"],
+  "bullets": [
+    "Implemented new onboarding designs that increased sponsor engagement by 70%",
+    "Decreased loan approval time with a responsive document upload feature"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Lead Front End Engineer",
+  "company": "Nurdle AI",
+  "location": "San Francisco, CA (Remote)",
+  "start": "Sept 2023",
+  "end": "Aug 2024",
+  "tech": [
+    "Vue",
+    "Nuxt",
+    "Typescript",
+    "fp-ts",
+    "gRPC",
+    "D3",
+    "XState",
+    "Scala",
+    "Jest",
+    "Playwright"
+  ],
+  "bullets": [
+    "Designed and developed a modern user interface with Vue.js, Nuxt, Typescript, and fp-ts",
+    "Led the iterative design process, collaborating with designers to enhance user experience and achieve project goals",
+    "Created interactive visualizations with D3.js to display generated data and improve data insights"
+  ]
+}

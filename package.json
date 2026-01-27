@@ -10,11 +10,15 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/content": "^3.11.0",
+    "@nuxt/fonts": "^0.13.0",
+    "better-sqlite3": "^12.6.2",
     "nuxt": "^4.3.0",
     "vue": "^3.5.27"
   },
   "devDependencies": {
     "@vue/language-plugin-pug": "^3.2.4",
-    "vite-plugin-pug": "^0.4.1"
+    "vite-plugin-pug": "^0.4.1",
+    "zod": "^4.3.6"
   }
 }
