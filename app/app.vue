@@ -4,8 +4,17 @@ NuxtLayout
 </template>
 
 <style lang="postcss">
+:root {
+  --black-1: #1f1f1f;
+  --white-1: #e8e8e8;
+  color-scheme: light dark;
+}
+
+/* app color #adadff */
 body {
-  font-family: "DM Sans", sans-serif;
+  background: light-dark(var(--white-1), var(--black-1));
+  color: light-dark(var(--black-1), var(--white-1));
+  font-family: "Geist", "DM Sans", sans-serif;
   font-size: 100%;
 }
 
@@ -15,16 +24,22 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Space Mono", monospace;
+  font-family: "Geist Mono", "Space Mono", monospace;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
 }
 
 @media print {
   body {
+    background: transparent;
+    color: var(--black-1);
     font-size: 12px;
   }
 
   a {
-    color: inherit;
     text-decoration: none;
   }
 }

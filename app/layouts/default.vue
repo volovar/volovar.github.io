@@ -1,11 +1,11 @@
 <template lang="pug">
 .main
   .header
-    span volovar.com
+    NuxtLink(to="/" active-class="current-route").title
+      span Mike Volovar
 
-    div
-      NuxtLink(to="/" active-class="active") Home
-      NuxtLink(to="/resume" active-class="active") Resume
+    .nav-links
+      NuxtLink(to="/resume" active-class="current-route") Resume
       NuxtLink(to="https://github.com/volovar" target="_blank") github
   slot
 </template>
@@ -19,6 +19,16 @@
 .header {
   display: flex;
   justify-content: space-between;
+  padding-bottom: 2rem;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1rem;
+}
+
+.current-route {
+  cursor: default;
 }
 
 @media print {

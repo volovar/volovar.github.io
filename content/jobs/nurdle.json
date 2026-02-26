@@ -17,8 +17,8 @@
     "Playwright"
   ],
   "bullets": [
-    "Designed and developed a modern user interface with Vue.js, Nuxt, Typescript, and fp-ts",
-    "Led the iterative design process, collaborating with designers to enhance user experience and achieve project goals",
-    "Created interactive visualizations with D3.js to display generated data and improve data insights"
+    "Created, designed, and developed the product UI with Vue.js, Nuxt, Typescript, fp-ts, and Scala, giving customers access to AI synthetic data generation tools and analytics",
+    "Led the front end team and managed design to implement all initial product features, hitting the project launch date early",
+    "Utilized D3.js to add interactive visualizations around uploaded data and generated synthetic data, increasing ease of use and leading to more informative insights"
   ]
 }

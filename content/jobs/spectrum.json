@@ -17,12 +17,11 @@
     "Jest"
   ],
   "bullets": [
-    "Led the development of Spectrum's content moderation web application, Guardian, using Vue, Nuxt, Typescript, and fp-ts",
-    "Enhanced Guardian moderation dashboard features through collaboration with design, resulting in a more robust and user-friendly dashboard",
-    "Integrated fp-ts into Guardian, leading to a substantial improvement in UI stability",
-    "Mentored and guided new team members in front end best practices and code quality",
-    "Worked with customers to improve Guardian moderation dashboard functionality and increase user happiness",
-    "Simplified new feature development with a custom web component library built in Stencil.js",
-    "Improved sales team efficiency by creating and maintaining audio and text demo apps built with Vue, Python, Flask, and Billboard.js"
+    "Bootstrapped Guardian UI using Vue, Nuxt, Typescript, and Scala, then designed and built out a suite of moderation tools, giving customers a UI interface on top of the existing moderation API",
+    "Improved Guardian UI design and functionality through research and customer feedback, increasing customer satisfaction and moderation speed",
+    "Integrated fp-ts into Guardian UI, making visual bugs nonexistent and leading to a substantial improvement in UI stability",
+    "Mentored and guided new team members in front end best practices and code quality, allowing for more work to be distributed to the team",
+    "Built out a custom web component library with Stencil.js to speed up and simplify new feature development",
+    "Created and maintained audio and text demo apps built with Vue, Python, Flask, and Billboard.js, improving sales team efficiency and increasing sales"
   ]
 }

@@ -120,6 +120,7 @@ const sortedJobs = computed((): JobsCollectionItem[] => {
   .job-list {
     gap: 0;
     padding: 0 0 0 2.5rem;
+    max-width: 74%;
   }
 
   .info {
@@ -128,6 +129,16 @@ const sortedJobs = computed((): JobsCollectionItem[] => {
 
   .show-for-print {
     display: block;
+  }
+
+  .info {
+    display: flex;
+  }
+}
+
+@media (width >= 960px) {
+  .job-list {
+    max-width: 78%;
   }
 }
 </style>
