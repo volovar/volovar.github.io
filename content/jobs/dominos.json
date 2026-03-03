@@ -22,7 +22,7 @@
   ],
   "bullets": [
     "Led design and development of an in-store React app that improved pizza tracker times and order accuracy, leading to cost savings on deliveries and better customer communication",
-    "Developed Pie Pass cart components with React to personalize and improve order pickup, leading to shorter wait times and contactless pickup",
+    "Developed Pie Pass cart components with React to personalize and improve order pickup, leading to shorter wait times and contactless options",
     "Created native iOS and Android apps using React and Cordova to increase order volume and improve the ordering experience in 26 international markets",
     "Streamlined the Gulp, Grunt, and Webpack build process by trimming extraneous steps and caching temp files to reduce build time",
     "Implemented A/B tests with Preact to improve item upsell conversions leading to millions in additional revenue"
